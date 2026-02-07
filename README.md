@@ -1,2 +1,2 @@
 # Mobile-recharge-System
-This program is a menu-driven console application that simulates a simple mobile recharge system. It allows users to check their balance, perform multiple recharges, view recharge history, and exit the system.
+This project stimulates the working of a mobile recharge system.The user can select options from the menu to check balance ,recharge a mobile number,view recharge history,or exit.The balance gets updated after each recharge,and the system maintains a record of all recharges performed.
